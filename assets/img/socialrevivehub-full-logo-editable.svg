@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="SocialReviveHub editable vector logo">
+<title>SocialReviveHub — Editable vector logo</title>
+<desc>Independently editable shield and S growth arrow, social media badges, name and tagline. Redesigned vector interpretation of original generated logo.</desc>
+<defs>
+<linearGradient id="shieldGradient" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#059BFF"/><stop offset=".47" stop-color="#0754DB"/><stop offset="1" stop-color="#6629D3"/></linearGradient>
+<linearGradient id="sGradient" x1="0" y1="1" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop stop-color="#1160F2"/><stop offset=".30" stop-color="#3C3FDE"/><stop offset=".63" stop-color="#9C2ACB"/><stop offset=".82" stop-color="#F33C90"/><stop offset="1" stop-color="#FF9661"/></linearGradient>
+<linearGradient id="warmGradient" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF398D"/><stop offset=".50" stop-color="#FF5C6F"/><stop offset="1" stop-color="#FF913B"/></linearGradient>
+<linearGradient id="facebookGradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#269DFF"/><stop offset="1" stop-color="#123BD8"/></linearGradient>
+<linearGradient id="instagramGradient" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#FFAB52"/><stop offset=".37" stop-color="#F4416F"/><stop offset=".72" stop-color="#C61AC1"/><stop offset="1" stop-color="#753CF1"/></linearGradient>
+<filter id="softShadow" x="-25%" y="-25%" width="150%" height="160%"><feGaussianBlur stdDeviation="11"/></filter>
+</defs>
+<g id="Emblem" aria-label="Editable shield, S ribbon, rising arrow and social icons">
+  <!-- Subtle editable shadow -->
+  <path id="shield-shadow" d="M 803 215 L 803 372 Q 803 466 600 542 Q 397 466 397 372 L 397 238 Q 397 210 425 194 L 568 117 Q 600 99 632 117 L 742 177" stroke="#30165B" stroke-opacity=".13" stroke-width="65" fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#softShadow)" transform="translate(2 13)"/>
+  <!-- Security shield: adjust stroke, color, shape in vector editor -->
+  <path id="shield-outline" d="M 803 215 L 803 372 Q 803 466 600 542 Q 397 466 397 372 L 397 238 Q 397 210 425 194 L 568 117 Q 600 99 632 117 L 742 177" stroke="url(#shieldGradient)" stroke-width="54" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- S-form recovery ribbon -->
+  <path id="recovery-S-ribbon" d="M 507 438 C 580 469 710 464 733 408 C 773 306 482 374 489 280 C 495 200 653 219 760 219" stroke="url(#sGradient)" stroke-width="67" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rising arrow: represents recovery and growth -->
+  <path id="growth-arrow" d="M 718 193 L 852 138 Q 867 132 860 150 L 825 276 Q 821 290 809 277 L 780 243 L 731 252 Q 719 255 721 241 L 729 214 Z" fill="url(#warmGradient)" stroke="#FFFFFF" stroke-width="9" stroke-linejoin="round"/>
+  <!-- Accent sparkle -->
+  <path id="sparkle" d="M 822 333 Q 835 351 849 354 Q 834 360 822 378 Q 819 359 798 354 Q 817 349 822 333 Z" fill="#6240DE"/>
+  <!-- Facebook visual badge, independent vector elements -->
+  <g id="facebook-badge"><circle cx="520" cy="497" r="70" fill="#FFFFFF"/><circle cx="520" cy="497" r="60" fill="url(#facebookGradient)"/><text x="520" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="130" font-weight="bold" fill="#FFFFFF">f</text></g>
+  <!-- Instagram visual badge, independent vector elements -->
+  <g id="instagram-badge"><circle cx="670" cy="501" r="70" fill="#FFFFFF"/><circle cx="670" cy="501" r="60" fill="url(#instagramGradient)"/><rect x="637" y="468" width="66" height="66" rx="20" fill="none" stroke="#FFFFFF" stroke-width="10"/><circle cx="670" cy="501" r="15" stroke="#FFFFFF" stroke-width="9" fill="none"/><circle cx="691" cy="481" r="5.5" fill="#FFFFFF"/></g>
+</g>
+<g id="Brand-Text" font-family="Lato, Arial, sans-serif" font-weight="900" text-anchor="start">
+  <text id="brand-name" x="198" y="707" font-size="105" letter-spacing="-2.5"><tspan id="social-text" fill="#111D53">Social</tspan><tspan id="revive-text" fill="url(#warmGradient)">Revive</tspan><tspan id="hub-text" fill="#111D53">Hub</tspan></text>
+</g>
+<g id="Taglines" text-anchor="middle" font-family="Lato, Arial, sans-serif">
+  <text id="tagline" x="600" y="783" font-size="29" letter-spacing="9" font-weight="600" fill="#171D4C">RECOVER <tspan fill="#D43CB6">•</tspan> RESTORE <tspan fill="#D43CB6">•</tspan> GROW</text>
+  <text id="support-line" x="600" y="836" font-size="24" fill="#7F86A2" letter-spacing=".3">Your Social Media. Our Support. A Safer Tomorrow.</text>
+</g>
+</svg>

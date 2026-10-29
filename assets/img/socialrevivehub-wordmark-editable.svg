@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 625 1200 250" role="img" aria-label="SocialReviveHub editable wordmark"><title>SocialReviveHub Wordmark</title><defs>
+<linearGradient id="shieldGradient" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#059BFF"/><stop offset=".47" stop-color="#0754DB"/><stop offset="1" stop-color="#6629D3"/></linearGradient>
+<linearGradient id="sGradient" x1="0" y1="1" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop stop-color="#1160F2"/><stop offset=".30" stop-color="#3C3FDE"/><stop offset=".63" stop-color="#9C2ACB"/><stop offset=".82" stop-color="#F33C90"/><stop offset="1" stop-color="#FF9661"/></linearGradient>
+<linearGradient id="warmGradient" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF398D"/><stop offset=".50" stop-color="#FF5C6F"/><stop offset="1" stop-color="#FF913B"/></linearGradient>
+<linearGradient id="facebookGradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#269DFF"/><stop offset="1" stop-color="#123BD8"/></linearGradient>
+<linearGradient id="instagramGradient" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#FFAB52"/><stop offset=".37" stop-color="#F4416F"/><stop offset=".72" stop-color="#C61AC1"/><stop offset="1" stop-color="#753CF1"/></linearGradient>
+<filter id="softShadow" x="-25%" y="-25%" width="150%" height="160%"><feGaussianBlur stdDeviation="11"/></filter>
+</defs><g id="Brand-Text" font-family="Lato, Arial, sans-serif" font-weight="900" text-anchor="start">
+  <text id="brand-name" x="198" y="707" font-size="105" letter-spacing="-2.5"><tspan id="social-text" fill="#111D53">Social</tspan><tspan id="revive-text" fill="url(#warmGradient)">Revive</tspan><tspan id="hub-text" fill="#111D53">Hub</tspan></text>
+</g>
+<g id="Taglines" text-anchor="middle" font-family="Lato, Arial, sans-serif">
+  <text id="tagline" x="600" y="783" font-size="29" letter-spacing="9" font-weight="600" fill="#171D4C">RECOVER <tspan fill="#D43CB6">•</tspan> RESTORE <tspan fill="#D43CB6">•</tspan> GROW</text>
+  <text id="support-line" x="600" y="836" font-size="24" fill="#7F86A2" letter-spacing=".3">Your Social Media. Our Support. A Safer Tomorrow.</text>
+</g></svg>

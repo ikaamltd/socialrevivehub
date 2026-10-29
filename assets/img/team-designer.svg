@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 264" role="img" aria-label="Abstract illustrated avatar for Lead Designer; placeholder portrait">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFE8E2"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient><linearGradient id="coat" x2=".9" y2="1"><stop stop-color="#F67B84"/><stop offset="1" stop-color="#30255F"/></linearGradient></defs>
+<rect width="360" height="264" rx="26" fill="url(#bg)"/>
+<circle cx="294" cy="48" r="46" fill="#7566E8" opacity=".2"/><circle cx="63" cy="203" r="58" fill="#F67B84" opacity=".1"/>
+<path d="M32 218C92 182 130 230 180 200S282 172 328 218" fill="none" stroke="#F67B84" opacity=".14" stroke-width="3"/>
+<circle cx="180" cy="90" r="45" fill="#F2BDA2"/>
+<path d="M133 93q-1-52 46-55 40 0 51 43-31-6-47-23-18 24-50 35" fill="#2B2555"/>
+<path d="M123 217q0-69 57-74 58 5 58 74v47H123z" fill="url(#coat)"/>
+<path d="M166 140h28v25c0 14-28 14-28 0z" fill="#E7A88D"/>
+<path d="m164 165 16 21 16-21" fill="#FFF" opacity=".9"/>
+<rect x="22" y="24" rx="16" width="66" height="65" fill="#F67B84" opacity=".94"/><path d="M50 62l10-10 10 10-10 10z" stroke="#FFF" stroke-width="4" fill="none" opacity=".78"/>
+<path d="M270 133l8 14 15 8-15 8-8 14-8-14-15-8 15-8z" fill="#7566E8" opacity=".8"/>
+<circle cx="100" cy="142" r="7" fill="#7566E8" opacity=".9"/>
+</svg>

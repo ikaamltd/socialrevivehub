@@ -1,0 +1,5 @@
+SocialReviveHub How It Works redesign
+
+This ZIP contains the complete updated GitHub Pages docs folder. Replace the existing docs/ files in your GitHub repository and commit. GitHub Pages must use /docs from the branch.
+
+Only the homepage How It Works cards were redesigned; logo, footer, services, team and review content remain unchanged.
